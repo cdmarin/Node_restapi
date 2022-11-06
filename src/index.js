@@ -3,4 +3,4 @@ import { PORT } from "./config.js";
 // 
 app.listen(PORT);
 // 
-console.log("Server runnig on port ", PORT);
+console.log("Server runnig on port", PORT);
